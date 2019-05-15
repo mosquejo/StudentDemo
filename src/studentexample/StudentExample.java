@@ -9,6 +9,7 @@ public class StudentExample {
         student1.setSid(9994);
         
         Student student2 = new Student("Andres",23, 12345);
+        Student student3 = new Student("Juanita",3,9991);
         
         Student[] studentArray = new Student[2];
         
