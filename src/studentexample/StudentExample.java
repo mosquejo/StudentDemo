@@ -28,5 +28,7 @@ public class StudentExample {
         for (Student student:studentArray) {
             System.out.println(student.toString());
         }
+        
+        System.out.println("MEnsaje de PRueba");
     }    
 }
